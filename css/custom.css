@@ -1,0 +1,14 @@
+/*Технический класс для ширины контента*/
+._container {
+    max-width: 1046px;
+    padding: 0 15px;
+    margin: 0 auto;
+    box-sizing: content-box;
+}
+
+/*Технический класс для cente-center*/
+._flex-standart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
