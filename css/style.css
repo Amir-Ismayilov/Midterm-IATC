@@ -87,7 +87,7 @@ body {
 .main_container_purpose {
     display: flex;
     align-items: center;
-    height: 60vh;
+    height: 75vh;
 }
 
 .main_text {
